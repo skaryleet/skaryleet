@@ -1,76 +1,77 @@
-# Hi there 👋
+# Привет! 👋
 
-I'm Alexey Starikov, an Infrastructure Engineer focused on Linux, datacenter infrastructure, server hardware, storage systems, monitoring and automation.
+[Also availible on English.](https://github.com/skaryleet/skaryleet/README_EN.md)
 
-Over the last couple years I've worked my way from component-level electronics repair to enterprise infrastructure operations, combining hands-on hardware expertise with software-driven automation.
+Я Алексей Стариков, инженер эксплуатации инфраструктуры СХД и ВК в ведомственных ЦОД. 
+В основном работаю с отечественным оборудованием и ОС. 
 
-## What I work with
+В процессе своей работы перешел от пайки и ремонта электроники на уровне компонентов к эксплуатации всего того, что раньше видел в разобранном состоянии. Hardware-бекграунд сильно помогает в работе над новой вселенной Software. 
 
-### Infrastructure
+## С чем удалось поработать? 
 
-* Linux (Alt Linux, Astra Linux, Debian-based systems)
-* Proxmox VE
-* OpenStack / EvoStack
-* NetBox
-* Zabbix
-* Grafana
+В этом блоке будет общая информация о том с каким стеком технологий пришлось познакомиться. 
 
-### Datacenter & Hardware
+### Инфра
 
-* YADRO VEGMAN
-* YADRO TATLIN
-* OpenBMC-based firmware
-* Redfish API
-* iDRAC
-* AMI MegaRAC
-* Server diagnostics and troubleshooting
-* Storage systems
+- Linux (Ubuntu/Debian, а также Астра и Альт СП)
+- Proxmox VE в исполнении Альт Виртуализация 10
+- OpenStack в исполнении Cloud.ru EvoStack
+- NetBox
+- Grafana, Zabbix, OpenSearch
 
-### Automation
+### Железки и ЦОДы
 
-* Bash
-* Python
-* REST API
-* Infrastructure tooling
-* Configuration synchronization
-* Monitoring automation
+- Оборудование компании YADRO (по большей части линейки VEGMAN и TATLIN)
+- GPU-сервера Dell (PowerEdge XE9680) и Nvidia (DGX A100)
+- Прошивки на базе OpenBMC
+- AMI MegaRAC и Dell iDRAC
+- Redfish/Swordfish API
+- Выполняю диагностику неисправностей и компонентный ремонт серверов и СХД. 
 
-## Current interests
+### Автоматизация
 
-* Infrastructure automation
-* Datacenter management systems (DCIM)
-* Monitoring and observability
-* Storage infrastructure
-* BMC and Redfish ecosystems
-* Security research in infrastructure products
+- Скрипты на Bash
+- Скрипты на Python
+- Работа с REST API
+- Если существующих инструментов недостаточно — предпочитаю создать собственный.
 
-## Featured projects
+## Актуальные задачи на саморазвитие
+
+- Автоматизация инфраструктуры ЦОД 
+- Платформы управления ЦОД (DCIM-системы)
+- Мониторинг и наблюдаемость
+- Безопасность кода и прошивок
+
+## Проекты, в которых принимаю участие 
 
 ### [Vegman Rx20G2 batcher](https://github.com/skaryleet/Vegman-Rx20G2-batcher)
 
-Automation tooling for server validation and maintenance workflows.
-README.md typed in russian language and doesn't have any translations. 
+Прекрасный скрипт для автоматизации рутины при работе с серверами Vegman. 
 
-### Iskra.DCI (Private Repo)
+Через Redfish позволяет собрать инвентарь, статистику или настроить пользователей, BIOS и BMC. 
 
-Vendor-neutral DCIM platform focused on infrastructure inventory, device management and operational automation through:
+### Искра.DCI
 
-* SSH
-* REST
-* Redfish
-* SNMP
-* Telnet
+>Продукт с временно закрытым исходным кодом. 
 
-## Philosophy
+Продукт является многовендорной системой конфигурации ресурсов с поддержкой сбора и хранения телеметрии, интеграции с другими системами, предиктивным мониторингом на базе EWMA z-score. 
 
-I enjoy understanding how systems work beneath the surface — from PCB traces and server hardware to Linux internals and infrastructure automation.
+Поддерживает следующие протоколы общения с оборудованием: 
 
-Technology becomes most interesting where hardware, software and operations meet.
+- SSH,
+- REST API,
+- Redfish API, 
+- SNMP,
+- Telnet.
 
-## Contact
+## Философия
 
-* Telegram: @skaryleet
-* Email: [skaryleet@ya.ru](mailto:skaryleet@ya.ru)
-* Location: Moscow, Russia
-* Open to relocate.
+В работе предпочитаю понимать технологию целиком — от архитектуры и принципов работы до ограничений и типовых проблем. Не боюсь предлагать идеи и обсуждать спорные решения: даже ошибочная идея помогает быстрее найти правильное решение. 
 
+## Как связаться
+
+- Telegram: @skaryleet
+- Почта: skaryleet@ya.ru
+- MAX: По запросу
+- Нахожусь в Москве
+- Готов к переездам.
