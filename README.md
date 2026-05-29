@@ -1,6 +1,6 @@
 # Привет! 👋
 
-[Also availible on English.](https://github.com/skaryleet/skaryleet/README_EN.md)
+[Also availible on English.](https://github.com/skaryleet/skaryleet/blob/main/README_EN.md)
 
 Я Алексей Стариков, инженер эксплуатации инфраструктуры СХД и ВК в ведомственных ЦОД. 
 В основном работаю с отечественным оборудованием и ОС. 

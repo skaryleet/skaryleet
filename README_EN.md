@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[Обо мне также доступно на русском языке.](https://github.com/skaryleet/skaryleet/README.md)
+[Обо мне также доступно на русском языке.](https://github.com/skaryleet/skaryleet/blob/main/README.md)
 
 I'm Alexey Starikov, an Infrastructure Engineer focused on Linux, datacenter infrastructure, server hardware, storage systems, monitoring and automation.
 
