@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I'm Alexey Starikov, an Infrastructure Engineer focused on Linux, datacenter infrastructure, server hardware, storage systems, monitoring, and automation.
+I'm Alexey Starikov, an Infrastructure Engineer focused on Linux, datacenter infrastructure, server hardware, storage systems, monitoring and automation.
 
-Over the last few years I've worked my way from component-level electronics repair to enterprise infrastructure operations, combining hands-on hardware expertise with software-driven automation.
+Over the last couple years I've worked my way from component-level electronics repair to enterprise infrastructure operations, combining hands-on hardware expertise with software-driven automation.
 
 ## What I work with
 
@@ -12,8 +12,6 @@ Over the last few years I've worked my way from component-level electronics repa
 * Proxmox VE
 * OpenStack / EvoStack
 * NetBox
-* LDAP
-* SSH
 * Zabbix
 * Grafana
 
@@ -21,19 +19,18 @@ Over the last few years I've worked my way from component-level electronics repa
 
 * YADRO VEGMAN
 * YADRO TATLIN
-* OpenBMC
+* OpenBMC-based firmware
 * Redfish API
 * iDRAC
 * AMI MegaRAC
 * Server diagnostics and troubleshooting
 * Storage systems
-* PCIe architecture
 
 ### Automation
 
 * Bash
 * Python
-* REST APIs
+* REST API
 * Infrastructure tooling
 * Configuration synchronization
 * Monitoring automation
@@ -49,11 +46,12 @@ Over the last few years I've worked my way from component-level electronics repa
 
 ## Featured projects
 
-### Vegman-Rx20G2-batcher
+### [Vegman Rx20G2 batcher](https://github.com/skaryleet/Vegman-Rx20G2-batcher)
 
 Automation tooling for server validation and maintenance workflows.
+README.md typed in russian language and doesn't have any translations. 
 
-### Iskra.DCI
+### Iskra.DCI (Private Repo)
 
 Vendor-neutral DCIM platform focused on infrastructure inventory, device management and operational automation through:
 
@@ -74,4 +72,5 @@ Technology becomes most interesting where hardware, software and operations meet
 * Telegram: @skaryleet
 * Email: [skaryleet@ya.ru](mailto:skaryleet@ya.ru)
 * Location: Moscow, Russia
+* Open to relocate.
 
